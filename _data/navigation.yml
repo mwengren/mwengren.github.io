@@ -34,7 +34,19 @@ site_nav:
         url: /docs/configuration/
       - title: "Navigation"
         url: /docs/navigation/
-      
+      - title: "ISO 19115 Validation"
+        url: /docs/validation/
+      - title: "Harvesting Workflow"
+        url: /docs/workflow/
+
+
+  - title: Catalog Capabilities
+    children:
+      - title: "Configuration"
+        url: /docs/configuration/
+      - title: "Navigation"
+        url: /docs/navigation/
+
 
 # documentation links
 docs:
