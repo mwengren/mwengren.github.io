@@ -6,4 +6,27 @@ sitemap: false
 permalink: /pages/architecture/
 ---
 
-This is just a test to see if the Architecture page will render....
+
+## System Diagram ##
+
+Below is where the system diagram will go:
+
+- image here
+
+<table>
+    <tr>
+        <td>Foo</td>
+    </tr>
+</table>
+
+### More Information: ###
+
+More architecture information TBD...
+
+> this is a blockquote.... testing....
+> another blockquote, testing
+
+>> nested blockquote?
+> maybe this will work?
+
+> back to single blockquote
